@@ -1,4 +1,4 @@
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "pull mxbai-embed-large"
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 100
 VECTOR_STORE = "chroma"
